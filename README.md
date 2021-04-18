@@ -14,10 +14,10 @@ Module 9 - SQLite and SQLAlchemy - UofT Data Analytics Boot Camp
 * The summary statistics show that the temperature data is consistent as at least 75% of the data falls within one standard deviation in both months, and the mean and median are very similar. This suggests that it is not prone to varying much from the mean which is a good sign as a selling factor (temperature) for ice cream is consistent and suggests that we can rely on this data for forecasting.
 * We can preform additional queries to gather more information. I have written a query that will take the user's input to specify the min or optimal temperature and will return a visualization of the frequency distribution/counts based on that filtered dataset. The idea being that temperature has an impact on sales and that there may be a minimum or optimal temperature in order for customers to want to buy ice cream (i.e. if it is too cold they are unlikely to buy). This will allow us to quickly visualize how many instances or how likely we are going to be able to make sales in that month based on our "optimal" temperature.
 
-![Min Set as 56] https://github.com/BBBrian1124/surfs_up/blob/main/Challenge/Resouces/Min%3D56.png
+![Min Temp Set as 56] https://github.com/BBBrian1124/surfs_up/blob/main/Challenge/Resouces/Min%3D56.png
 * For the first query we can run, I will set the min temperature to 56 which is the minimum of the 2 datasets so we can visualize the spread of the frequency of the temperature. This will allow for a quick glance at how often we expect certain temperature or temperature ranges to be reached to see if this business venture is worth it.
 
-! [Min Set as 74] https://github.com/BBBrian1124/surfs_up/blob/main/Challenge/Resouces/Min%3D74.png
+! [Min Temp Set as 74] https://github.com/BBBrian1124/surfs_up/blob/main/Challenge/Resouces/Min%3D74.png
 * The second query will be ran using 74 as the minimum temperature to visualize my last point in the results section that if the min or optimal temperature was 74, we'd be much less likely to be able to sell in December. We can adjust as needed based on what we discover to be the optimal tempature.
 
 # Appendix:
