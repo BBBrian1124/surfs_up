@@ -22,4 +22,5 @@ Module 9 - SQLite and SQLAlchemy - UofT Data Analytics Boot Camp
 
 # Appendix:
 [Repository Link] https://github.com/BBBrian1124/surfs_up/tree/main/Challenge
+
 [Python Code File] https://github.com/BBBrian1124/surfs_up/blob/main/Challenge/SurfsUp_Challenge.ipynb
